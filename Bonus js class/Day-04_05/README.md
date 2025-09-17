@@ -151,3 +151,20 @@ if left side will false then output return will be right side otherwise return l
 ## Grouping and Precedence
 
 - Precedence (অগ্রাধিকার) মানে হলো, JavaScript (বা অন্য কোনো ভাষা) যখন এক লাইনে একাধিক operator দেখে, তখন কোন operator আগে execute হবে সেই নিয়ম।
+
+## Some Operator Precedence list:
+
+1. `()` → Parentheses (সবচেয়ে আগে)
+2. `*` → Exponentiation
+3. `/ %` → Multiplication, Division, Modulus
+4. `+ -` → Addition, Subtraction
+5. `< > <= >=` → Comparison
+6. `== != === !==` → Equality
+7. `&&` → Logical AND
+8. `||` → Logical OR
+9. `=` → Assignment (সবচেয়ে শেষে)
+
+## special type operator
+
+- typeof()
+- instanceof()
