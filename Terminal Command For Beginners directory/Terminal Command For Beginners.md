@@ -180,13 +180,6 @@ Especially thanks to **Brad Traversy**
 ## Node package manager (npm)command
 
 - What is npm
-  - `Ctrl + Alt + T` : open a terminal in Linux
-  - `Up Arrow`: Will show your last command
-  - `Down Arrow`: Will show your next command
-  - `Tab`: Will auto-complete your command
-  - `Ctrl + L`: Will clear the screen
-  - `Ctrl + C`: Will cancel a command
-  - `Ctrl + R`: Will search for a command
-  - `Ctrl + D`: Will exit the terminal
+ 
 - What are command-line tools
 - Difference between npm vs npx
